@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\bin\Debug\COMP1 2010 Q6.exe
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\bin\Debug\COMP1 2010 Q6.pdb
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\bin\Debug\COMP1 2010 Q6.xml
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\obj\x86\Debug\COMP1_2010_Q6.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\obj\x86\Debug\COMP1 2010 Q6.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\obj\x86\Debug\COMP1 2010 Q6.exe
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\obj\x86\Debug\COMP1 2010 Q6.xml
+c:\users\user\documents\visual studio 2010\Projects\COMP1 2010 Q6\COMP1 2010 Q6\obj\x86\Debug\COMP1 2010 Q6.pdb
