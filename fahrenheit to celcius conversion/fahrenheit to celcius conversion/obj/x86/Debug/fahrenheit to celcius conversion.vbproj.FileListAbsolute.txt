@@ -1,0 +1,11 @@
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\bin\Debug\fahrenheit to celcius conversion.exe
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\bin\Debug\fahrenheit to celcius conversion.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\bin\Debug\fahrenheit to celcius conversion.xml
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit_to_celcius_conversion.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.exe
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.xml
+C:\Users\208967\AppData\Local\Temporary Projects\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fahrenheit to celcius conversion\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fahrenheit to celcius conversion\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fahrenheit to celcius conversion\fahrenheit to celcius conversion\obj\x86\Debug\fahrenheit to celcius conversion.pdb
