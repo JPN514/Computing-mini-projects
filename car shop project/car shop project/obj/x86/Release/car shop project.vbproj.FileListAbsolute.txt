@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car_shop_project.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car_shop_project.frmDisplayCar.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car_shop_project.frmShowCarImages.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car_shop_project.frmShowCars.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car_shop_project.menu.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car_shop_project.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\car shop project\car shop project\obj\x86\Release\car shop project.vbproj.GenerateResource.Cache
