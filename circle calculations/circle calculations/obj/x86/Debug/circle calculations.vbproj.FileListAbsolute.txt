@@ -1,0 +1,11 @@
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\bin\Debug\circle calculations.exe
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\bin\Debug\circle calculations.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\bin\Debug\circle calculations.xml
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\obj\x86\Debug\circle_calculations.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\obj\x86\Debug\circle calculations.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\obj\x86\Debug\circle calculations.exe
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\obj\x86\Debug\circle calculations.xml
+C:\Users\208967\AppData\Local\Temporary Projects\circle calculations\obj\x86\Debug\circle calculations.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\circle calculations\circle calculations\obj\x86\Debug\circle calculations.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\circle calculations\circle calculations\obj\x86\Debug\circle calculations.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\circle calculations\circle calculations\obj\x86\Debug\circle calculations.pdb

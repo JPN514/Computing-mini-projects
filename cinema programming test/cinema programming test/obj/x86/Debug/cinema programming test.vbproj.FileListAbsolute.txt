@@ -1,0 +1,10 @@
+C:\Users\208967\AppData\Local\Temporary Projects\cinema programming test\obj\x86\Debug\cinema_programming_test.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\cinema programming test\obj\x86\Debug\cinema programming test.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\bin\Debug\cinema programming test.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\bin\Debug\cinema programming test.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\bin\Debug\cinema programming test.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\obj\x86\Debug\cinema_programming_test.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\obj\x86\Debug\cinema programming test.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\obj\x86\Debug\cinema programming test.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\obj\x86\Debug\cinema programming test.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\cinema programming test\cinema programming test\obj\x86\Debug\cinema programming test.pdb
