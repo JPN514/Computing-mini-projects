@@ -1,0 +1,9 @@
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\bin\Debug\space invaders.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\bin\Debug\space invaders.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\bin\Debug\space invaders.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\obj\x86\Debug\space_invaders.Form1.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\obj\x86\Debug\space_invaders.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\obj\x86\Debug\space invaders.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\obj\x86\Debug\space invaders.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\obj\x86\Debug\space invaders.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\space invaders\space invaders\obj\x86\Debug\space invaders.pdb
