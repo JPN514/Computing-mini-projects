@@ -1,0 +1,16 @@
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\bin\Debug\pay calculation testing.exe
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\bin\Debug\pay calculation testing.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\bin\Debug\pay calculation testing.xml
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\obj\x86\Debug\pay_calculation_testing.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\obj\x86\Debug\pay calculation testing.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\obj\x86\Debug\pay calculation testing.exe
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\obj\x86\Debug\pay calculation testing.xml
+C:\Users\208967\AppData\Local\Temporary Projects\pay calculation testing\obj\x86\Debug\pay calculation testing.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\obj\x86\Debug\pay calculation testing.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\obj\x86\Debug\pay calculation testing.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\obj\x86\Debug\pay calculation testing.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\bin\Debug\pay calculation testing.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\bin\Debug\pay calculation testing.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\bin\Debug\pay calculation testing.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\obj\x86\Debug\pay_calculation_testing.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pay calculation testing\pay calculation testing\obj\x86\Debug\pay calculation testing.vbproj.GenerateResource.Cache
