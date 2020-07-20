@@ -1,0 +1,11 @@
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\bin\Debug\Weeks and days.exe
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\bin\Debug\Weeks and days.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\bin\Debug\Weeks and days.xml
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\obj\x86\Debug\Weeks_and_days.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\obj\x86\Debug\Weeks and days.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\obj\x86\Debug\Weeks and days.exe
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\obj\x86\Debug\Weeks and days.xml
+C:\Users\208967\AppData\Local\Temporary Projects\Weeks and days\obj\x86\Debug\Weeks and days.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\Weeks and days\Weeks and days\obj\x86\Debug\Weeks and days.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\Weeks and days\Weeks and days\obj\x86\Debug\Weeks and days.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\Weeks and days\Weeks and days\obj\x86\Debug\Weeks and days.pdb
