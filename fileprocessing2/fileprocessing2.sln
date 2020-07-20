@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "fileprocessing2", "fileprocessing2\fileprocessing2.vbproj", "{A79C509B-3FC5-46BD-BFA7-1264C414B8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79C509B-3FC5-46BD-BFA7-1264C414B8EC}.Debug|x86.ActiveCfg = Debug|x86
+		{A79C509B-3FC5-46BD-BFA7-1264C414B8EC}.Debug|x86.Build.0 = Debug|x86
+		{A79C509B-3FC5-46BD-BFA7-1264C414B8EC}.Release|x86.ActiveCfg = Release|x86
+		{A79C509B-3FC5-46BD-BFA7-1264C414B8EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

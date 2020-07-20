@@ -1,0 +1,8 @@
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\bin\Debug\fileprocessing2.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\bin\Debug\fileprocessing2.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\bin\Debug\fileprocessing2.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\obj\x86\Debug\fileprocessing2.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\obj\x86\Debug\fileprocessing2.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\obj\x86\Debug\fileprocessing2.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\obj\x86\Debug\fileprocessing2.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\fileprocessing2\fileprocessing2\obj\x86\Debug\fileprocessing2.pdb
