@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2010\Projects\pre release skeleton code V2.0\pre release skeleton code V2.0\obj\x86\Release\pre_release_skeleton_code_V2._0.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\pre release skeleton code V2.0\pre release skeleton code V2.0\obj\x86\Release\pre release skeleton code V2.0.vbproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\bin\Debug\pre-release skeleton code.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\bin\Debug\pre-release skeleton code.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\bin\Debug\pre-release skeleton code.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Debug\pre_release_skeleton_code.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Debug\pre-release skeleton code.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Debug\pre-release skeleton code.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Debug\pre-release skeleton code.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Debug\pre-release skeleton code.pdb

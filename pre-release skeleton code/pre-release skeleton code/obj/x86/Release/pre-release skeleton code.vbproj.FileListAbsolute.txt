@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\bin\Release\pre-release skeleton code.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\bin\Release\pre-release skeleton code.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\bin\Release\pre-release skeleton code.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Release\pre_release_skeleton_code.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Release\pre-release skeleton code.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Release\pre-release skeleton code.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Release\pre-release skeleton code.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\pre-release skeleton code\pre-release skeleton code\obj\x86\Release\pre-release skeleton code.pdb

@@ -1,0 +1,8 @@
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\bin\Debug\quadrilateral decision table.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\bin\Debug\quadrilateral decision table.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\bin\Debug\quadrilateral decision table.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\obj\x86\Debug\quadrilateral_decision_table.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\obj\x86\Debug\quadrilateral decision table.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\obj\x86\Debug\quadrilateral decision table.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\obj\x86\Debug\quadrilateral decision table.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\quadrilateral decision table\quadrilateral decision table\obj\x86\Debug\quadrilateral decision table.pdb
