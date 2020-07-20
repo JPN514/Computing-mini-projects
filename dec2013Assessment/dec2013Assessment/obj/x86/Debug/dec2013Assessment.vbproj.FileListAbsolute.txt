@@ -1,0 +1,8 @@
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\bin\Debug\dec2013Assessment.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\bin\Debug\dec2013Assessment.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\bin\Debug\dec2013Assessment.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\obj\x86\Debug\dec2013Assessment.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\obj\x86\Debug\dec2013Assessment.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\obj\x86\Debug\dec2013Assessment.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\obj\x86\Debug\dec2013Assessment.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\dec2013Assessment\dec2013Assessment\obj\x86\Debug\dec2013Assessment.pdb

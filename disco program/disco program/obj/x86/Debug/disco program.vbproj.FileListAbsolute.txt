@@ -1,0 +1,11 @@
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\bin\Debug\disco program.exe
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\bin\Debug\disco program.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\bin\Debug\disco program.xml
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\obj\x86\Debug\disco_program.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\obj\x86\Debug\disco program.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\obj\x86\Debug\disco program.exe
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\obj\x86\Debug\disco program.xml
+C:\Users\208967\AppData\Local\Temporary Projects\disco program\obj\x86\Debug\disco program.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\disco program\disco program\obj\x86\Debug\disco program.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\disco program\disco program\obj\x86\Debug\disco program.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\disco program\disco program\obj\x86\Debug\disco program.pdb
