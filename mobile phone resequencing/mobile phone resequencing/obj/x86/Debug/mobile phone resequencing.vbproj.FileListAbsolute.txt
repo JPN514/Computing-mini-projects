@@ -1,0 +1,16 @@
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\bin\Debug\mobile phone resequencing.exe
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\bin\Debug\mobile phone resequencing.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\bin\Debug\mobile phone resequencing.xml
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\obj\x86\Debug\mobile_phone_resequencing.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.exe
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.xml
+C:\Users\208967\AppData\Local\Temporary Projects\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\bin\Debug\mobile phone resequencing.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\bin\Debug\mobile phone resequencing.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\bin\Debug\mobile phone resequencing.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\obj\x86\Debug\mobile_phone_resequencing.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\mobile phone resequencing\mobile phone resequencing\obj\x86\Debug\mobile phone resequencing.vbproj.GenerateResource.Cache
