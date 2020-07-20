@@ -1,0 +1,11 @@
+C:\Users\208967\AppData\Local\Temporary Projects\average\bin\Debug\average.exe
+C:\Users\208967\AppData\Local\Temporary Projects\average\bin\Debug\average.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\average\bin\Debug\average.xml
+C:\Users\208967\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.exe
+C:\Users\208967\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.xml
+C:\Users\208967\AppData\Local\Temporary Projects\average\obj\x86\Debug\average.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\average\average\obj\x86\Debug\average.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\average\average\obj\x86\Debug\average.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\average\average\obj\x86\Debug\average.pdb

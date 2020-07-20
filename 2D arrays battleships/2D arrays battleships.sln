@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2D arrays battleships", "2D arrays battleships\2D arrays battleships.vbproj", "{117DD0A2-318C-47D2-A395-7AB32B8C7CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117DD0A2-318C-47D2-A395-7AB32B8C7CC2}.Debug|x86.ActiveCfg = Debug|x86
+		{117DD0A2-318C-47D2-A395-7AB32B8C7CC2}.Debug|x86.Build.0 = Debug|x86
+		{117DD0A2-318C-47D2-A395-7AB32B8C7CC2}.Release|x86.ActiveCfg = Release|x86
+		{117DD0A2-318C-47D2-A395-7AB32B8C7CC2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
