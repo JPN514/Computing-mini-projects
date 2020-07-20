@@ -1,0 +1,8 @@
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\bin\Debug\number total.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\bin\Debug\number total.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\bin\Debug\number total.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\obj\x86\Debug\number_total.Resources.resources
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\obj\x86\Debug\number total.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\obj\x86\Debug\number total.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\obj\x86\Debug\number total.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\number total\number total\obj\x86\Debug\number total.pdb
