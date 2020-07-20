@@ -1,0 +1,16 @@
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\bin\Debug\Hello world.exe
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\bin\Debug\Hello world.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\bin\Debug\Hello world.xml
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\obj\x86\Debug\Hello_world.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\obj\x86\Debug\Hello world.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\obj\x86\Debug\Hello world.exe
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\obj\x86\Debug\Hello world.xml
+C:\Users\208967\AppData\Local\Temporary Projects\Hello world\obj\x86\Debug\Hello world.pdb
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\obj\x86\Debug\Hello world.exe
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\obj\x86\Debug\Hello world.xml
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\obj\x86\Debug\Hello world.pdb
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\bin\Debug\Hello world.exe
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\bin\Debug\Hello world.pdb
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\bin\Debug\Hello world.xml
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\obj\x86\Debug\Hello_world.Resources.resources
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\Hello world\Hello world\obj\x86\Debug\Hello world.vbproj.GenerateResource.Cache
