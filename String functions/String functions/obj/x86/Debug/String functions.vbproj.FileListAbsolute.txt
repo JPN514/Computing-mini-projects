@@ -1,0 +1,8 @@
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\bin\Debug\String functions.exe
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\bin\Debug\String functions.pdb
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\bin\Debug\String functions.xml
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\obj\x86\Debug\String_functions.Resources.resources
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\obj\x86\Debug\String functions.vbproj.GenerateResource.Cache
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\obj\x86\Debug\String functions.exe
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\obj\x86\Debug\String functions.xml
+\\hammer\studentdata\208967\Documents\Visual Studio 2010\Projects\String functions\String functions\obj\x86\Debug\String functions.pdb

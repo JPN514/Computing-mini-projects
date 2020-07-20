@@ -1,0 +1,11 @@
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\bin\Debug\Suitable hotel.exe
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\bin\Debug\Suitable hotel.pdb
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\bin\Debug\Suitable hotel.xml
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\obj\x86\Debug\Suitable_hotel.Resources.resources
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\obj\x86\Debug\Suitable hotel.vbproj.GenerateResource.Cache
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\obj\x86\Debug\Suitable hotel.exe
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\obj\x86\Debug\Suitable hotel.xml
+C:\Users\208967\AppData\Local\Temporary Projects\Suitable hotel\obj\x86\Debug\Suitable hotel.pdb
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\Suitable hotel\Suitable hotel\obj\x86\Debug\Suitable hotel.exe
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\Suitable hotel\Suitable hotel\obj\x86\Debug\Suitable hotel.xml
+\\hammer\studentdata\208967\documents\visual studio 2010\Projects\Suitable hotel\Suitable hotel\obj\x86\Debug\Suitable hotel.pdb
